@@ -1,4 +1,4 @@
-![Header](header_flutter.png)  
+![Header](header_f.png)  
 
 - 🧠 Self-taught developer passionate about clean code & impactful apps
 - 🔍 I love reverse-engineering problems and turning chaos into structure
