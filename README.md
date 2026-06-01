@@ -1,23 +1,5 @@
 
-<!-- Social icons section -->
-<p align="center">
-<a href="https://twitter.com/sudowill_" target="_blank">
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="sudowill_" height="30" width="30" />
-</a>
-&#8287;&#8287;&#8287;&#8287;&#8287;
-<a href="https://www.linkedin.com/in/wilfried-hariel-kana-mboma-488aa3a2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/wilfried-hariel-kana-mboma-488aa3a2/" height="30" width="40" /></a>
-&#8287;&#8287;&#8287;&#8287;&#8287;
-<a href="https://fb.com/will.kn.mboma/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/will.kn.mboma/" height="30" width="40" /></a>
-&#8287;&#8287;&#8287;&#8287;&#8287;
-<a href="https://www.instagram.com/insta.wilfried" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/kn__237" height="30" width="40" /></a>
-</p>
-<p align="center">
-  <em>Developer, Thinker, Eternal Learner 🚀☕💻</em><br>
-</p>
 
----
-
-## 👨‍💻 About Me
 
 - 🧠 Self-taught developer passionate about clean code & impactful apps
 - 🔍 I love reverse-engineering problems and turning chaos into structure
@@ -25,15 +7,6 @@
 - 💬 Languages: French 🇫🇷 | English 🇬🇧 | Spanish 🇪🇸
 
 ---
-
-## ✨ Fun Facts
-
-- 🤖 I once built a quiz app to help students crush government exams
-- 🔧 I love tweaking UIs until they *feel* right
-- 🌌 Dreaming of building tools that *matter*
-
----
-
 
 <br/>
 
