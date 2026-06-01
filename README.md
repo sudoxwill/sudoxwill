@@ -1,3 +1,4 @@
+![Header](header_1.png)  
 
 - 🧠 Self-taught developer passionate about clean code & impactful apps
 - 🔍 I love reverse-engineering problems and turning chaos into structure
